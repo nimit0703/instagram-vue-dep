@@ -9,7 +9,7 @@ const user = new User(
   "dark",
   "nimit@insta.com",
   "ab",
-  "src/assets/user-profile.jpeg",
+  "https://picsum.photos/id/1/1080",
   [26, 27, 28, 29, 30, 31, 32, 33, 34],
   [2, 3, 4, 26, 30, 31, 32, 33, 34],
   true,
