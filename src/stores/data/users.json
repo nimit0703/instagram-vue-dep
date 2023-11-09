@@ -1,0 +1,320 @@
+[
+  {
+    "uid": 1,
+    "userName": "nimit_trevadiya",
+    "colorTheme": "dark",
+    "email": "nimit@insta.com",
+    "password": "ab",
+    "profile_img": "src/assets/user-profile.jpeg",
+    "followers": [2, 3, 4, 5],
+    "following": [3, 4, 5, 6],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 1,
+        "belongTo": 1,
+        "content": "https://picsum.photos/id/59/1080"
+      }
+    ],
+    "name": "Nimit Trevadiya",
+    "highlights":[
+      {
+      "hid" :1,
+      "belongsTo" : 1,
+      "title" : "hlTitle",
+      "hl" :[
+        {
+          "sid": 1001,
+          "belongTo": 1,
+          "content": "https://picsum.photos/id/51/1080"
+        },
+        {
+          "sid": 1002,
+          "belongTo": 1,
+          "content": "https://picsum.photos/id/5/1080"
+        },
+        {
+          "sid": 1003,
+          "belongTo": 1,
+          "content": "https://picsum.photos/id/55/1080"
+        }
+      ]
+    },{
+      "hid" :2,
+      "belongsTo" : 1,
+      "title" : "hlTitle",
+      "hl" :[
+        {
+          "sid": 1004,
+          "belongTo": 1,
+          "content": "https://picsum.photos/id/52/1080"
+        },
+        {
+          "sid": 1005,
+          "belongTo": 1,
+          "content": "https://picsum.photos/id/7/1080"
+        },
+        {
+          "sid": 1006,
+          "belongTo": 1,
+          "content": "https://picsum.photos/id/56/1080"
+        }
+      ]
+    }]
+  },
+  {
+    "uid": 2,
+    "userName": "jon ven",
+    "colorTheme": "dark",
+    "email": "nimit@insta.com",
+    "password": "ab",
+    "profile_img": "https://picsum.photos/id/2/1080",
+    "followers": [2, 3, 4, 5],
+    "following": [3, 4, 5, 6],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 2,
+        "belongTo": 2,
+        "content": "https://picsum.photos/id/2/1080"
+      },
+      {
+        "sid": 102,
+        "belongTo": 2,
+        "content": "https://picsum.photos/id/102/1080"
+      },
+      {
+        "sid": 105,
+        "belongTo": 2,
+        "content": "https://picsum.photos/id/93/1080"
+      }
+    ]
+  },
+  {
+    "uid": 3,
+    "userName": "sakia kun",
+    "colorTheme": "dark",
+    "email": "nimit@insta.com",
+    "password": "ab",
+    "profile_img": "https://picsum.photos/id/3/1080",
+    "followers": [2, 3, 4, 5],
+    "following": [3, 4, 5, 6],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 3,
+        "belongTo": 3,
+        "content": "https://picsum.photos/id/3/1080"
+      },
+      {
+        "sid": 103,
+        "belongTo": 3,
+        "content": "https://picsum.photos/id/3/1080"
+      },
+      {
+        "sid": 104,
+        "belongTo": 3,
+        "content": "https://picsum.photos/id/3/1080"
+      }
+    ]
+  },
+  {
+    "uid": 4,
+    "userName": "John Hokins",
+    "colorTheme": "dark",
+    "email": "john@insta.com",
+    "password": "ab",
+    "profile_img": "https://picsum.photos/id/26/200/200",
+    "followers": [2, 3, 1, 5],
+    "following": [3, 4, 5, 6],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 4,
+        "belongTo": 4,
+        "content": "https://picsum.photos/id/4/1080"
+      }
+    ]
+  },
+  {
+    "uid": 26,
+    "userName": "Alice Johnson",
+    "colorTheme": "light",
+    "email": "alice@example.com",
+    "password": "password123",
+    "profile_img": "https://picsum.photos/id/26/200/200",
+    "followers": [1],
+    "following": [3],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 26,
+        "belongTo": 26,
+        "content": "https://picsum.photos/id/26/1080"
+      }
+    ]
+  },
+  {
+    "uid": 27,
+    "userName": "Bob Smith",
+    "colorTheme": "light",
+    "email": "bob@example.com",
+    "password": "password123",
+    "profile_img": "https://picsum.photos/id/27/200/200",
+    "followers": [1],
+    "following": [3],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 27,
+        "belongTo": 27,
+        "content": "https://picsum.photos/id/59/1080"
+      }
+    ]
+  },
+  {
+    "uid": 28,
+    "userName": "Eva Martinez",
+    "colorTheme": "light",
+    "email": "eva@example.com",
+    "password": "password123",
+    "profile_img": "https://picsum.photos/id/28/200/200",
+    "followers": [1],
+    "following": [3],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 28,
+        "belongTo": 28,
+        "content": "https://picsum.photos/id/59/1080"
+      }
+    ]
+  },
+  {
+    "uid": 29,
+    "userName": "Michael Brown",
+    "colorTheme": "light",
+    "email": "michael@example.com",
+    "password": "password123",
+    "profile_img": "https://picsum.photos/id/29/200/200",
+    "followers": [1],
+    "following": [3],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 29,
+        "belongTo": 29,
+        "content": "https://picsum.photos/id/59/1080"
+      }
+    ]
+  },
+  {
+    "uid": 30,
+    "userName": "Linda Davis",
+    "colorTheme": "light",
+    "email": "linda@example.com",
+    "password": "password123",
+    "profile_img": "https://picsum.photos/id/30/200/200",
+    "followers": [1],
+    "following": [3],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 30,
+        "belongTo": 30,
+        "content": "https://picsum.photos/id/59/1080"
+      }
+    ]
+  },
+  {
+    "uid": 31,
+    "userName": "David Wilson",
+    "colorTheme": "light",
+    "email": "david@example.com",
+    "password": "password123",
+    "profile_img": "https://picsum.photos/id/31/200/200",
+    "followers": [1],
+    "following": [3],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 31,
+        "belongTo": 31,
+        "content": "https://picsum.photos/id/59/1080"
+      }
+    ]
+  },
+  {
+    "uid": 32,
+    "userName": "Sophia Garcia",
+    "colorTheme": "light",
+    "email": "sophia@example.com",
+    "password": "password123",
+    "profile_img": "https://picsum.photos/id/32/200/200",
+    "followers": [1],
+    "following": [3],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 32,
+        "belongTo": 32,
+        "content": "https://picsum.photos/id/59/1080"
+      }
+    ]
+  }
+  ,
+  {
+    "uid": 33,
+    "userName": "Sophia Garcia",
+    "colorTheme": "light",
+    "email": "sophia@example.com",
+    "password": "password123",
+    "profile_img": "https://picsum.photos/id/32/200/200",
+    "followers": [1],
+    "following": [3],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 33,
+        "belongTo": 33,
+        "content": "https://picsum.photos/id/59/1080"
+      }
+    ]
+  },
+  {
+    "uid": 34,
+    "userName": "Sophia Garcia",
+    "colorTheme": "light",
+    "email": "sophia@example.com",
+    "password": "password123",
+    "profile_img": "https://picsum.photos/id/32/200/200",
+    "followers": [1],
+    "following": [3],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 34,
+        "belongTo": 34,
+        "content": "https://picsum.photos/id/59/1080"
+      }
+    ]
+  },
+  {
+    "uid": 35,
+    "userName": "Sophia Garcia",
+    "colorTheme": "light",
+    "email": "sophia@example.com",
+    "password": "password123",
+    "profile_img": "https://picsum.photos/id/32/200/200",
+    "followers": [1],
+    "following": [3],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 35,
+        "belongTo": 35,
+        "content": "https://picsum.photos/id/59/1080"
+      }
+    ]
+  }
+]
