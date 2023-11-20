@@ -24,8 +24,10 @@ const state = {
   showLoder: false,
   thisUser: user,
   users: [],
-
+  smallNav:false,
   posts: [],
+  isChatOpen:false,
+  chatData:{} as any,
 };
 // comment added
 

@@ -137,6 +137,24 @@
     ]
   },
   {
+    "uid": 5,
+    "userName": "John Hokins",
+    "colorTheme": "dark",
+    "email": "john@insta.com",
+    "password": "ab",
+    "profile_img": "https://picsum.photos/id/5/200/200",
+    "followers": [2, 3, 1, 5],
+    "following": [3, 4, 5, 6],
+    "hasStories": true,
+    "stories": [
+      {
+        "sid": 4,
+        "belongTo": 4,
+        "content": "https://picsum.photos/id/5/1080"
+      }
+    ]
+  },
+  {
     "uid": 26,
     "userName": "Alice Johnson",
     "colorTheme": "light",

@@ -28,6 +28,15 @@ const mutations = {
   setLoader(state: any, value: boolean) {
     state.showLoder = value;
   },
+  toggleSmallNav(state:any){
+    state.smallNav = !state.smallNav;
+  },
+  toggleIsChatOpen(state:any){
+    state.isChatOpen =!state.isChatOpen;
+  },
+  setChatData(state:any,payload:User){
+    state.chatData = {payload}
+  }
 };
 // comment added
 
