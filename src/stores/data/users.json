@@ -5,7 +5,7 @@
     "colorTheme": "dark",
     "email": "nimit@insta.com",
     "password": "ab",
-    "profile_img": "src/assets/user-profile.jpeg",
+    "profile_img": "https://picsum.photos/id/1/1080",
     "followers": [2, 3, 4, 5],
     "following": [3, 4, 5, 6],
     "hasStories": true,
